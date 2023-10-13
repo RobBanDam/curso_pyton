@@ -1,0 +1,30 @@
+Date: 20/8/2023
+Time: 18:19
+Phone Number: +527773001634
+Message: Envio mensaje prueba
+--------------------
+Date: 20/8/2023
+Time: 18:21
+Phone Number: +527773001634
+Message: Envio mensaje prueba
+--------------------
+Date: 20/8/2023
+Time: 18:22
+Phone Number: +527773001634
+Message: Envío mensaje prueba
+--------------------
+Date: 20/8/2023
+Time: 18:24
+Phone Number: +527773001634
+Message: Envío mensaje prueba
+--------------------
+Date: 20/8/2023
+Time: 18:27
+Phone Number: +527775445847
+Message: Hola, este es un ejemplo de envío de mensaje automatizado
+--------------------
+Date: 20/8/2023
+Time: 18:32
+Phone Number: +527775445847
+Message: Hola, este es un ejemplo de un envío de mensaje automatizado enviado a las 18:35hrs
+--------------------
